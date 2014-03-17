@@ -7,3 +7,9 @@ In addition to a few python-libraries that you can get from ubuntu repositories,
 
 easy_install --upgrade google-api-python-client
 easy_install --upgrade python-gflags
+
+See, for example:
+
+https://developers.google.com/drive/web/quickstart/quickstart-python
+
+https://developers.google.com/drive/web/enable-sdk
